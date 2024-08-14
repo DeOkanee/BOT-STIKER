@@ -86,9 +86,21 @@
     </tbody>
   </table>
 
+## Built With 🛠
+* [WhatsApp-web.js](https://github.com/pedroslopez/whatsapp-web.js/)
+* [QRCode-Terminal](https://www.npmjs.com/package/qrcode-terminal)
+* [Moment-Timezone](https://www.npmjs.com/package/moment-timezone)
+* [Colors](https://www.npmjs.com/package/colors)
+* [FS](https://www.npmjs.com/package/fs)
+
+## Error or Bug 🐞
+* [Discord](https://dsc.gg/DrelezTM)
+* [YouTube](https://www.youtube.com/p/DrelezTM)
+* [Instagram](https://www.instagram.com/DrelezTM)
+* [Issues](https://github.com/DrelezTM/StickerWhatsAppBOT/issues)
 
 ## License 📜
-* [License](https://github.com/DeOkanee/BOT-STIKER/blob/master/LICENSE)
+* [License](https://github.com/DrelezTM/StickerWhatsAppBOT/blob/main/LICENSE)
 
 ## Warning 🚧
 <p id="warning">Only works on Windows, MacOS, and Linux. <b>Can't work on Android/Termux</b>!</p>
