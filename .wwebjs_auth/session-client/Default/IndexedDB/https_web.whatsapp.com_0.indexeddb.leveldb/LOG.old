@@ -1,0 +1,25 @@
+2024/08/12-14:42:04.074 2598 Reusing MANIFEST D:\~BOTSTICKERNEW\.wwebjs_auth\session-client\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/12-14:42:04.074 2598 Recovering log #36
+2024/08/12-14:42:04.417 2598 Reusing old log D:\~BOTSTICKERNEW\.wwebjs_auth\session-client\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000036.log 
+2024/08/12-14:42:04.418 2598 Delete type=2 #35
+2024/08/12-14:42:04.418 2598 Delete type=2 #37
+2024/08/12-14:42:06.806 3178 Level-0 table #41: started
+2024/08/12-14:42:07.057 3178 Level-0 table #41: 1124457 bytes OK
+2024/08/12-14:42:07.097 3178 Delete type=0 #36
+2024/08/12-14:42:07.098 146c Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/12-14:42:09.221 146c Compacting 1@1 + 1@2 files
+2024/08/12-14:42:09.494 146c Generated table #42@1: 21109 keys, 840801 bytes
+2024/08/12-14:42:09.494 146c Compacted 1@1 + 1@2 files => 840801 bytes
+2024/08/12-14:42:09.530 146c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/12-14:42:09.530 146c Delete type=2 #38
+2024/08/12-14:42:09.530 146c Delete type=2 #41
+2024/08/12-14:47:14.704 146c Level-0 table #44: started
+2024/08/12-14:47:14.855 146c Level-0 table #44: 409790 bytes OK
+2024/08/12-14:47:14.893 146c Delete type=0 #40
+2024/08/12-14:47:14.894 146c Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/12-14:47:20.393 55f0 Compacting 1@1 + 1@2 files
+2024/08/12-14:47:20.646 55f0 Generated table #45@1: 23519 keys, 958585 bytes
+2024/08/12-14:47:20.646 55f0 Compacted 1@1 + 1@2 files => 958585 bytes
+2024/08/12-14:47:20.684 55f0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/12-14:47:20.685 55f0 Delete type=2 #42
+2024/08/12-14:47:20.685 55f0 Delete type=2 #44

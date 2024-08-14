@@ -1,0 +1,31 @@
+2024/08/14-15:30:36.101 19f8 Reusing MANIFEST D:\~BOTSTICKERNEW\.wwebjs_auth\session-client\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/14-15:30:36.125 19f8 Recovering log #43
+2024/08/14-15:30:36.128 19f8 Reusing old log D:\~BOTSTICKERNEW\.wwebjs_auth\session-client\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000043.log 
+2024/08/14-15:30:43.608 29a4 Level-0 table #48: started
+2024/08/14-15:30:43.651 29a4 Level-0 table #48: 26314 bytes OK
+2024/08/14-15:30:43.729 29a4 Delete type=0 #43
+2024/08/14-15:30:43.729 29a4 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/14-15:30:47.571 29a4 Compacting 1@1 + 1@2 files
+2024/08/14-15:30:48.077 29a4 Generated table #49@1: 23982 keys, 970818 bytes
+2024/08/14-15:30:48.077 29a4 Compacted 1@1 + 1@2 files => 970818 bytes
+2024/08/14-15:30:48.202 29a4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/14-15:30:48.202 29a4 Delete type=2 #45
+2024/08/14-15:30:48.202 29a4 Delete type=2 #48
+2024/08/14-15:31:03.008 3124 Level-0 table #51: started
+2024/08/14-15:31:03.223 3124 Level-0 table #51: 1091117 bytes OK
+2024/08/14-15:31:03.258 3124 Delete type=0 #47
+2024/08/14-15:31:03.441 3124 Compacting 1@1 + 1@2 files
+2024/08/14-15:31:03.943 3124 Generated table #52@1: 46197 keys, 1554673 bytes
+2024/08/14-15:31:03.943 3124 Compacted 1@1 + 1@2 files => 1554673 bytes
+2024/08/14-15:31:04.023 3124 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/14-15:31:28.218 3124 Level-0 table #54: started
+2024/08/14-15:31:28.433 3124 Level-0 table #54: 1030596 bytes OK
+2024/08/14-15:31:28.461 3124 Delete type=2 #49
+2024/08/14-15:31:28.461 3124 Delete type=0 #50
+2024/08/14-15:31:28.461 3124 Delete type=2 #51
+2024/08/14-15:31:35.369 19f8 Compacting 1@1 + 1@2 files
+2024/08/14-15:31:35.768 19f8 Generated table #55@1: 39818 keys, 1576945 bytes
+2024/08/14-15:31:35.768 19f8 Compacted 1@1 + 1@2 files => 1576945 bytes
+2024/08/14-15:31:35.804 19f8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/14-15:31:35.805 19f8 Delete type=2 #52
+2024/08/14-15:31:35.805 19f8 Delete type=2 #54
