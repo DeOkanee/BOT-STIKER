@@ -1,16 +1,4 @@
 # StickerWhatsAppBOT
-<p align="center">
-
-  <img alt="@stickerwhatsappbot" style="width: 150px;" src="https://github.com/DrelezTM/StickerWhatsAppBOT/assets/72683265/d3d504a6-7ce4-4937-8182-c37b8a86b456">
-</p>
-<div align="center">
-  <h3>StickerWhatsAppBOT</h3>
-  <p>Sticker WhatsAppBOT with <a href="https://github.com/pedroslopez/whatsapp-web.js/">whatsapp-web.js</a> and <a href="https://nodejs.org/en/">nodejs</a></p>
-</div>
-<div align="center">
-  <a href="#warning">Warning</a> | <a href="https://dsc.gg/DrelezTM">Report Bug</a> | <a href="https://github.com/DrelezTM/StickerWhatsAppBOT/issues">Issues</a>
-</div>
-
 ## Installation 📑
 * Clone Repository
   ```sh
