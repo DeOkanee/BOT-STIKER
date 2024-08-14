@@ -37,7 +37,7 @@
   * config.groups : *to filter whether bots can respond to group chats or not* (boolean)
 * [console.txt](https://github.com/DrelezTM/StickerWhatsAppBOT/blob/main/config/console.txt)
   ```txt
-  ██████╗  ██████╗ ████████╗    ██████╗ ███████╗ █████╗ ██████╗ ██╗   ██╗
+██████╗  ██████╗ ████████╗    ██████╗ ███████╗ █████╗ ██████╗ ██╗   ██╗
 ██╔══██╗██╔═══██╗╚══██╔══╝    ██╔══██╗██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝
 ██████╔╝██║   ██║   ██║       ██████╔╝█████╗  ███████║██║  ██║ ╚████╔╝ 
 ██╔══██╗██║   ██║   ██║       ██╔══██╗██╔══╝  ██╔══██║██║  ██║  ╚██╔╝  
